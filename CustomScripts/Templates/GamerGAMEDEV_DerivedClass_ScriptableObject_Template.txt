@@ -1,0 +1,25 @@
+using UnityEngine;
+#NAMESPACE#
+
+public class #SCRIPTNAME# : #BASECLASS#
+{
+    #region Variables
+    #endregion Variables
+
+    #region Unity Methods
+
+    private void OnEnable()
+    {
+    
+    }
+
+    private void OnDisable()
+    {
+    
+    }
+
+    #endregion Unity Methods
+
+    #region Main
+    #endregion Main
+}

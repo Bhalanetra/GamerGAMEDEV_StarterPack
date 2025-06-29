@@ -1,0 +1,38 @@
+using UnityEngine;
+#NAMESPACE#
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #region Variables
+    #endregion Variables
+
+    #region Unity Methods
+
+    private void Start()
+    {
+    
+    }
+
+    private void Update()
+    {
+    
+    }
+
+    private void OnEnable()
+    {
+    
+    }
+
+    private void OnDisable()
+    {
+    
+    }
+
+    #endregion Unity Methods
+
+    #region Other
+    #endregion Other
+
+    #region Main
+    #endregion Main
+}
