@@ -1,12 +1,12 @@
 {
-  "name": "com.GamerGAMEDEV.starterpackage",
-  "version": "0.0.1",
-  "displayName": "GamerGAMEDEV_StarterPack",
-  "description": "Useful starter tools and utilities for new Unity projects.",
-  "unity": "6000.0.32f1",
-  "author": {
-    "name": "Joginder Pal",
-    "email": "Joginderpal700@gmail.com",
-    "url": "https://gamergamedev.com"
-  }
+    "name": "com.gamergamedev.starterpackage",
+    "version": "0.0.1",
+    "displayName": "GamerGAMEDEV Starter Pack",
+    "description": "Useful starter tools and utilities for new Unity projects.",
+    "unity": "6000.0.32f1",
+    "author": {
+        "name": "Joginder Pal",
+        "email": "Joginderpal700@gmail.com",
+        "url": "https://gamergamedev.com"
+    }
 }
